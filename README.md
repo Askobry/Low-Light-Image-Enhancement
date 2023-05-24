@@ -1,8 +1,17 @@
 # Low-Light-Image-Enhancement
 A task for low-light-image-enhancement
-# Pre-trained models
-Link：https://pan.baidu.com/s/1-9RIgZLSTZEJHWd44xgoGw 
+# Network Architecture
+![image](figures/network_architecture.png)
+# Get Start
+## Clone Repo
+```
+git clone https://github.com/Askobry/Low-Light-Image-Enhancement.git
+```
+## Pretrained models
+[[Baiduyun Pan](https://pan.baidu.com/s/1-9RIgZLSTZEJHWd44xgoGw)]
 Code：rh6e
+## Dataset
+LOL [[Link](https://daooshee.github.io/BMVC2018website/)]
 # Reference Repositories
 - LLFormer: https://github.com/TaoWangzj/LLFormer
 - FLW-Net: https://github.com/hitzhangyu/FLW-Net
